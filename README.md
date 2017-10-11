@@ -1,5 +1,5 @@
 # MUHAMMED SABIQUE P
-## sabiquep.github.io
+### sabiquep.github.io
 
 My Fablab Experiences
 
@@ -19,3 +19,8 @@ E-mail:msabiquep@gmail.com
  
 ## Fab lab in MESCE
  There are around 22 fablabs in kerala. Fablab Kochi, Fablab Trivandrum and other 20 labs are in engineering colleges. Mes college of engineering is one among them. They have a well develepod fablab in which student and faculty development programs are taking place. Fablab in MESCE consists of the below mentioned machines
+1 3D Printer
+2 Vinyl Cutting machine
+3 Laser Cutting Machine
+4 PCB Milling machine
+5 Sand Blaster Machine
